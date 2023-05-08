@@ -2,6 +2,8 @@
 
 Simple API for creating forms for MCPE clients (PocketMine only)
 
+API 4 SUPPORT
+
 ## Including in other plugins
 
 ### As a plugin
